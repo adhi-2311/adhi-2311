@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Adhisikha, a CSE Sophomore currently studying at IIIT Bhubaneswar
 
 <!--
 **adhi-2311/adhi-2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
