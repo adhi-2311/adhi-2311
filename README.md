@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **Node and Express**
 - 👨‍💻 Learning by contributing in Open Source.
+- ⚡Sucessfully completeted [Hacktoberfest 2020](https://dev.to/badge/hacktoberfest-2020)
 - 📝I love to pen down my thoughts in form of poetry and have also co authored a poetry anthology.
 - ⚡ Living on 'chai' and 'codes'.
-- ⚡[Hacktoberfest 2020](https://dev.to/badge/hacktoberfest-2020)
 
 <!-- Profile-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/adhisikha-patnaik-412208192" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"  alt="LinkedIn"/></a>
- <a href="mailto:sikhaadhi2311@gmail.com?"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+ <a href="mailto:sikhaadhi2311@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://instagram.com/_spilt._.ink_" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/> </a>
   <a href="https://github.com/adhi_2311" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
