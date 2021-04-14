@@ -19,6 +19,7 @@
  <a href="mailto:sikhaadhi2311@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://instagram.com/_spilt._.ink_" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/> </a>
   <a href="https://github.com/adhi_2311" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://medium.com/@sikhaadhi2311" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="@sikhaadhi2311"</a>
 </p>
 
 <!-- Languages and Tools-->
