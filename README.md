@@ -1,11 +1,11 @@
 <!-- Header-->
 
 <h1 align="center">Hi 👋, I'm Adhisikha Patnaik</h1>
-<h3 align="center">A sophomore at IIIT-Bh, currently developing my skills in MERN stack Web Development and Competitive Programming.</h3>
+<h3 align="center">A pre-final year student at IIIT-Bh, currently developing my skills in MERN stack Web Development and Competitive Programming.</h3>
 
 <!-- About me-->
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently learning **React**
 - 👨‍💻 Learning by contributing in Open Source.
 - ⚡Sucessfully completeted [Hacktoberfest 2020](https://dev.to/badge/hacktoberfest-2020)
 - 📝I love to pen down my thoughts in form of poetry and have also co authored a poetry anthology.
