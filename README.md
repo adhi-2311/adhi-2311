@@ -1,7 +1,7 @@
 <!-- Header-->
 
 <h1 align="center">Hi 👋, I'm Adhisikha Patnaik</h1>
-<h3 align="center">A pre-final year student at IIIT-Bh, currently developing my skills in MERN stack Web Development and Competitive Programming.</h3>
+<h3 align="center">A pre-final year student at IIIT-Bh, currently developing my skills in MERN stack Web Development and Problem Solving.</h3>
 
 <!-- About me-->
 
