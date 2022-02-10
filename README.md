@@ -1,18 +1,17 @@
 <!-- Header-->
 
 <h1 align="center">Hi 👋, I'm Adhisikha Patnaik</h1>
-<h3 align="center">A pre-final year student at IIIT-Bh, currently developing my skills in MERN stack Web Development and Problem Solving.</h3>
+<h3 align="center">A pre-final year student at IIIT-Bh majoring in Computer Science</h3>
 
 <!-- About me-->
-
-- 🌱 I’m currently learning **React**
-- 👨‍💻 Learning by contributing in Open Source.
-- ⚡Sucessfully completeted [Hacktoberfest 2020](https://dev.to/badge/hacktoberfest-2020)
-- 📝I love to pen down my thoughts in form of poetry and have also co authored a poetry anthology.
-- ⚡ Living on 'chai' and 'codes'.
-
+<hr>
+<p>
+I spend most of my times solving problems on LeetCode and brainstorming about my next project.<br><br>
+While I mostly work on <b>Full Stack Web Development (MERN Stack)</b> projects, I am always eager to learn new technologies that can help me put my ideas into reality in a much better way.<br><br>
+Apart from this, I enjoy reading technical blogs, writing poems, and eating ;)
+</p>
 <!-- Profile-->
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/adhisikha-patnaik-412208192" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"  alt="LinkedIn"/></a>
