@@ -1,7 +1,7 @@
 <!-- Header-->
 
 <h1 align="center">Hi 👋, I'm Adhisikha Patnaik</h1>
-<h3 align="center">A pre-final year student at IIIT-Bh majoring in Computer Science</h3>
+<h3 align="center">A final year student at IIIT-Bh majoring in Computer Science</h3>
 
 <!-- About me-->
 <hr>
