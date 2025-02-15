@@ -1,13 +1,13 @@
 <!-- Header-->
 
 <h1 align="center">Hi 👋, I'm Adhisikha Patnaik</h1>
-<h3 align="center">A final year student at IIIT-Bh majoring in Computer Science</h3>
+<h3 align="center">Senior Software Developer @Siemens Healthineers</h3>
 
 <!-- About me-->
 <hr>
 <p>
+I work as a full stack web developer at the company building educational, training and scheduling platforms for hospitals. While I have worked on GenAI app, my work majorly revolves around MERN stack along with GraphQL, Redis and Azure services. I have also worked in Angular for over an year.
 I spend most of my times solving problems on LeetCode and brainstorming about my next project.<br><br>
-While I mostly work on <b>Full Stack Web Development (MERN Stack)</b> projects, I am always eager to learn new technologies that can help me put my ideas into reality in a much better way.<br><br>
 Apart from this, I enjoy reading technical blogs, writing poems, and eating ;)
 </p>
 <!-- Profile-->
