@@ -6,7 +6,8 @@
 <!-- About me-->
 <hr>
 <p>
-I work as a full stack web developer at the company building educational, training and scheduling platforms for hospitals. While I have worked on GenAI app, my work majorly revolves around MERN stack along with GraphQL, Redis and Azure services. I have also worked in Angular for over an year.
+I work as a full-stack web developer at the company, building educational, training, and scheduling platforms for hospitals. 
+While I have worked on a GenAI app, my work primarily revolves around the MERN stack, along with GraphQL, Redis, and Azure services. I have also worked with Angular for over a year.
 I spend most of my times solving problems on LeetCode and brainstorming about my next project.<br><br>
 Apart from this, I enjoy reading technical blogs, writing poems, and eating ;)
 </p>
